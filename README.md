@@ -1,3 +1,6 @@
+
+ ![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/8904b8cb-c5ba-4bda-8b00-00a1f42305a1)
+
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Bienbenido!;Welcome!)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.google.com/search?client=firefox-b-d&q=linux)
 ___
